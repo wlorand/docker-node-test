@@ -1,0 +1,23 @@
+{
+  "name": "docker-node-test",
+  "version": "1.0.0",
+  "description": "## Proto to test Docker Container creation with simple Node app (2020)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlorand/docker-node-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlorand/docker-node-test/issues"
+  },
+  "homepage": "https://github.com/wlorand/docker-node-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
